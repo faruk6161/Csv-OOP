@@ -1,3 +1,7 @@
+'''
+    Coded by FARUK OKSUZ
+                        '''
+
 import csv
 import statistics
 import numpy as np
