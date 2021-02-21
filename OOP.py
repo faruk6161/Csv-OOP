@@ -152,8 +152,6 @@ def KayitEkle():
     ogr.BasariNotuHesapla()
     
 
-
-
 def KayitGuncelle():
     ogrNo = int(input("Kaydı güncellenecek olan ögrenci numarasını giriniz : "))
     if ogrNo in [ int(kisi.ogrNo) for kisi in ogrencilerListesi]:
@@ -166,9 +164,7 @@ def KayitGuncelle():
     else:
         raise Exception("Böyle bir öğrenci bulunamadı !")
 
-    
-
-
+        
 def main():
     print("\n Lütfen önce 1 ve 2 numaralı işlemleri yapınız !")
     print("""
