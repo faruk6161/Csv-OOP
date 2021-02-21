@@ -1,6 +1,6 @@
 '''
-    Coded by FARUK OKSUZ
-                        '''
+        Coded by FARUK OKSUZ
+                                '''
 
 import csv
 import statistics
